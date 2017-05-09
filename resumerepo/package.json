@@ -1,0 +1,46 @@
+{
+  "name": "resumes",
+  "version": "1.0.0",
+  "description": "a package of resumes and themes",
+  "main": "index.js",
+  "dependencies": {
+    "jsonresume-theme-briefstrap": "^1.0.0",
+    "jsonresume-theme-caffeine": "^1.2.3",
+    "jsonresume-theme-compact-pt-br": "^1.0.7",
+    "jsonresume-theme-compactbr": "^1.0.1",
+    "jsonresume-theme-concise-serif": "0.0.4",
+    "jsonresume-theme-curzy": "^1.0.4",
+    "jsonresume-theme-dave": "^1.0.1",
+    "jsonresume-theme-elegant": "^1.10.2",
+    "jsonresume-theme-elite": "^0.3.0",
+    "jsonresume-theme-eloquent": "^3.0.2",
+    "jsonresume-theme-kate": "^1.0.1",
+    "jsonresume-theme-kendall": "^0.1.18",
+    "jsonresume-theme-material": "^1.1.2",
+    "jsonresume-theme-moon": "^1.7.22",
+    "jsonresume-theme-paper-pt-br": "^0.3.3",
+    "jsonresume-theme-printclassy": "^1.1.1",
+    "jsonresume-theme-shorter-miles": "^0.1.1",
+    "jsonresume-theme-stackoverflow": "^1.0.4",
+    "jsonresume-theme-stackoverflow2": "^1.0.6",
+    "jsonresume-themeutils": "^1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oasisfleeting/resumerepo.git"
+  },
+  "keywords": [
+    "lyles",
+    "resume"
+  ],
+  "author": "lyle mcclanahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oasisfleeting/resumerepo/issues"
+  },
+  "homepage": "https://github.com/oasisfleeting/resumerepo#readme"
+}
